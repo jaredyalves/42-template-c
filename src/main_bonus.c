@@ -1,8 +1,7 @@
 #include "template_bonus.h"
-#include <stdio.h>
 
 int	main(void)
 {
-	printf("%s\n", HELLO_WORD);
+	hello_world();
 	return (0);
 }
